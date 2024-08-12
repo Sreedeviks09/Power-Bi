@@ -1,4 +1,4 @@
-# Power-Bi
+# Netflix Movies and TV Shows Dashboard (Power-Bi) 
 My First Netflix Movies and TV Shows Dashboard
 
 I’m thrilled to share a comprehensive and dynamic dashboard designed for Netflix enthusiasts and data analysts alike. 
